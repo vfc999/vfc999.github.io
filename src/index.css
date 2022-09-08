@@ -14,10 +14,31 @@ code {
 
 html {
   box-sizing: border-box;
+  font-family: itc-avant-garde-gothic-pro;
 }
 
 *,
 *:before,
 *:after {
   box-sizing: inherit;
+}
+
+.content {
+  padding: 6vw;
+  padding-top: 3.3vw;
+  padding-bottom: 3.3vw;
+  max-width: calc(1400px + 12vw);
+  margin: 0 auto;
+}
+
+h3 {
+  white-space: pre-wrap;
+  color: black;
+  font-size: 36px;
+  font-family: itc-avant-garde-gothic-pro;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 0em;
+  text-transform: none;
+  margin: 0;
 }
