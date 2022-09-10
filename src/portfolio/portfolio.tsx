@@ -15,7 +15,7 @@ const Portfolio = () => {
     )
   }
   return (
-    <div className='portfolio'>
+    <div className='portfolio animate__animated animate__fadeIn'>
       {tiles}
     </div>
   )

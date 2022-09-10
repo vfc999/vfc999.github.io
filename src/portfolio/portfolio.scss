@@ -9,7 +9,6 @@
   margin: 0 auto;
 
   & > * {
-    flex-grow: 1;
     width: 100%;
     padding-bottom: 133.333%;
     position: relative;
@@ -45,12 +44,22 @@
       letter-spacing: 0em;
       text-transform: none;
       line-height: 1.4em;
-      font-size: calc(3.3 * 1rem);
+      font-size: 3.3rem;
       color: white;
 
       &:hover {
         opacity: 0;
       }
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+    grid-template-columns: repeat(1,minmax(0,1fr));
+    grid-column-gap: 40px;
+    grid-row-gap: 40px;
+
+    .title {
+      font-size: 2.2rem;
     }
   }
 }

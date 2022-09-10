@@ -1,0 +1,13 @@
+.carousel {
+  img {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+    opacity: 0;
+    transition: 0.5s all ease-in;
+  
+    &.visible {
+      opacity: 1;
+    }
+  }
+}
