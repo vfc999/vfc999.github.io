@@ -176,7 +176,7 @@
   "food-drink": {
     "title": "Food + Drink",
     "fullTitle": "Food + Drink",
-    "cover": "/photos/food_drink.jpeg",
+    "cover": "/photos/Food/DSC_0154.jpg",
     "photos": [
       "/photos/Food/DSC_2664.jpg",
       "/photos/Food/DSC_4778.jpg",
@@ -204,8 +204,7 @@
       "/photos/Food/SD2_Dioselle3.jpg",
       "/photos/Food/SD2_Dioselle7.jpg",
       "/photos/Food/StLouis22.jpg",
-      "/photos/Food/Japan-239.jpg",
-      "/photos/Food/SD_Dioselle2.jpg"
+      "/photos/Food/SD2_Dioselle2.jpg"
     ]
   },
   "urban": {
