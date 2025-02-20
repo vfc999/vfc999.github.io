@@ -210,7 +210,7 @@
   "urban": {
     "title": "Urban",
     "fullTitle": "Urban",
-    "cover": "/photos/Urban/DSC_1933.jpg",
+    "cover": "/photos/Urban/Japan-178.jpg",
     "photos": [
       "/photos/Urban/Chicago126.jpg",
       "/photos/Urban/DSC_4585.jpg",
@@ -253,7 +253,7 @@
   "geometry": {
     "title": "Geometry",
     "fullTitle": "Geometry",
-    "cover": "/photos/Geometry/DSC_1924.jpg",
+    "cover": "/photos/Geometry/NYAlone-73.jpg",
     "photos": [
       "photos/Geometry/DSC_0043.jpg",
       "/photos/Geometry/DSC_0078.jpg",
@@ -316,7 +316,7 @@
   "street": {
     "title": "Street",
     "fullTitle": "Street",
-    "cover": "/photos/Street/Japan-194.jpg",
+    "cover": "/photos/Street/DSC_9808.jpg",
     "photos": [
       "/photos/Street/Cincinnati_Interview86.jpg",
       "/photos/Street/Japan-208.jpg",
@@ -335,7 +335,7 @@
       "/photos/Street/DSC_3867.jpg",
       "/photos/Street/Japan-174.jpg",
       "/photos/Street/Chicago49.jpg",
-      "/photos/Street/Summer-32.jpg",
+      "/photos/Street/VancouverRoadtrip-206.jpg",
       "/photos/Street/Japan-219.jpg",
       "/photos/Street/London_Belgium-49.jpg",
       "/photos/Street/London_Belgium-112.jpg",
@@ -344,14 +344,14 @@
       "/photos/Street/PuertoRico_Angel-168.jpg",
       "/photos/Street/Japan-135.jpg",
       "/photos/Street/DSC_0353.jpg",
-      "/photos/Street/Summer-111.jpg",
+      "/photos/Street/Chicago7.jpg",
       "/photos/Street/PuertoRico_Angel-167.jpg",
       "/photos/Street/London_Belgium-140.jpg",
       "/photos/Street/SF-Photowalk-w-Tom-2.jpg",
       "/photos/Street/PuertoRico_Angel-165.jpg",
       "/photos/Street/PuertoRico_Angel-154.jpg",
       "/photos/Street/Summer-20.jpg",
-      "/photos/Street/Chicago7.jpg",
+      "/photos/Street/Summer-111.jpg",
       "/photos/Street/NYAlone-9.jpg",
       "/photos/Street/StLouis69.jpg",
       "/photos/Street/NYAlone-12.jpg",
@@ -363,21 +363,21 @@
       "/photos/Street/DSC_0242.jpg",
       "/photos/Street/NY_InterviewTrip20.jpg",
       "/photos/Street/Japan-132.jpg",
-      "/photos/Street/Japan-154.jpg",
+      "/photos/Street/Japan-93.jpg",
       "/photos/Street/Japan-24.jpg",
       "/photos/Street/Japan-252.jpg",
       "/photos/Street/Japan-265.jpg",
-      "/photos/Street/Japan-93.jpg",
+      "/photos/Street/Japan-154.jpg",
       "/photos/Street/London_Belgium-145.jpg",
-      "/photos/Street/London_Belgium-45.jpg",
-      "/photos/Street/London_Belgium-118.jpg",
       "/photos/Street/PalmSprings_Alex5.jpg",
+      "/photos/Street/London_Belgium-118.jpg",
+      "/photos/Street/London_Belgium-45.jpg",
       "/photos/Street/PuertoRico_Angel-156.jpg",
-      "/photos/Street/PuertoRico_Angel-157.jpg",
       "/photos/Street/Summer-124.jpg",
-      "/photos/Street/VancouverRoadtrip-206.jpg",
-      "/photos/Street/TFTI-Christmas3.jpg",
-      "/photos/Street/DSC_1147.jpg"
+      "/photos/Street/PuertoRico_Angel-157.jpg",
+      "/photos/Street/Summer-32.jpg",
+      "/photos/Street/DSC_1147.jpg",
+      "/photos/Street/TFTI-Christmas3.jpg"
 
 
     ]
