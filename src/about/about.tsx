@@ -6,7 +6,7 @@ const About = () => {
   return (
     <div className='about animate__animated animate__fadeIn'>
       <div className='photo'>
-        <img src={prefixPathWithPublicHomeUrl('/photos/Furniture+Store_Alex-2.jpeg')}/>
+        <img src={prefixPathWithPublicHomeUrl('/photos/WebsiteSelfie.jpg')}/>
       </div>
       <div className='description'>
         <h3>Vivian Faye Chen</h3>
