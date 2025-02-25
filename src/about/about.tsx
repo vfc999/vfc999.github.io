@@ -11,10 +11,10 @@ const About = () => {
       <div className='description'>
         <h3>Vivian Faye Chen</h3>
         <p>
-           Hi there! My name is Vivian and I’m a photographer from Southern California that relocated to New York in 2019. I’ve been shooting for over 15 years and would say I’m an amateur photographer with an advanced eye.
+           Hi there! My name is Vivian and I’m a photographer from Southern California that relocated to New York in 2019. I’ve been shooting for 15+ years as a hobbyist so I would say I’m an amateur photographer with an advanced eye.
         </p>
         <p>
-           I began experimenting with photography as a camera shy high schooler who would rather be behind the camera instead of in front of it. Eventually this hideaway became my why. It’s why I would wake up early for a hike or why I’ll walk the extra mile for the better view. It’s  why I push myself to always do and see more; I’m always in pursuit of the next shot.
+           I began experimenting with photography as a shy high schooler who would rather be behind the camera instead of in front of it. Eventually being behind the camera became my "why". It’s why I would wake up early for a hike or why I'll walk the extra mile for the better view. It’s  why I push myself to always do and see more; I’m always in pursuit of the next shot.
         </p> 
         <p>
            My subject matter tends to vary. My life has led me toward more landscape and street photography, both of which I’m still growing with. I particularly love working with the interplay of geometric shapes and contrasting lights to create deeply atmospheric photographs. I have also done my share of portrait shots, mostly cosplay and graduation but have recently started experimenting with more studio work as well.
